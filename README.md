@@ -129,20 +129,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Kris**
-*An enthusiast in AI and automation tools*
-
-````
-
----
-
-### ✅ Langkah Selanjutnya
-
-1. Simpan file di atas sebagai `README.md` di dalam folder proyek kamu.
-2. Lakukan push ke GitHub:
-   ```bash
-   git add .
-   git commit -m "add README and conversion script"
-   git push origin main
-````
-
+Joshua
