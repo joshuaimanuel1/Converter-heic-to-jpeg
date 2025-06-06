@@ -1,0 +1,8 @@
+requirements.txt
+
+pyheif==0.6.1
+Pillow==10.3.0
+
+📌 bisa memastikan versi paling baru dari package dengan menjalankan:
+
+pip freeze > requirements.txt
