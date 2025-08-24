@@ -1,4 +1,3 @@
-```markdown
 # 📷 HEIC to JPEG Batch Converter with ZIP Support
 
 ## Overview
